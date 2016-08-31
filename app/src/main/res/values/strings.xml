@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Almacen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Login -->
+    <string name="str_welcome">Bienvenido</string>
+    <string name="str_usuario">Usuario</string>
+    <string name="str_contrasena">Contrasena</string>
+    <string name="str_entrar">Entrar</string>
+</resources>
